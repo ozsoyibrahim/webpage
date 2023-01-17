@@ -2,4 +2,4 @@
 
 <h2> This study contains HTML and CSS code </h2>
 
-![](images/screen.gif)
+![](screen.gif)
